@@ -1,4 +1,4 @@
 # moveis-ecologicos
-teste de github casa do código
 
-Projeto criado com objetivos de aprendizagem de git
+
+Projeto criado com objetivos de aprendizagem de git sobre o livro Controlando versões com Git e GitHub - Casa do Codigo.
